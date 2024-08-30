@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;900&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, 'Roboto', Roboto, 'Helvetica', Helvetica, 'Arial', Arial, sans-serif;
+    font-size: 14px;
+    background-color: #efefef;
+}
+
+/* ============================ NAVBAR  CSS STARTS HERE========================== */
+
+#navbarContainer{
+    background: #fff;
+    height: 80px;
+    width: 100%;
+    border-bottom: 1px solid #eee;
+    
+}
+#navbarContainer > article{
+    width: 80%;
+    margin: 0 auto;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    
+}
+.LogoBlock{
+    flex-basis: 25%;
+    display: flex;
+    justify-content: flex-start;
+}
+.SearchBlock{
+    flex-basis: 55%;
+    display: flex;
+    justify-content: flex-start;
+}
+.MenuBlock{
+    flex-basis: 20%;
+    display: flex;
+    justify-content: flex-end;
+}
+.searchDivider{
+    display: flex;
+    gap: 10px;
+    width: 90%;
+}
+.SearchBlock div{
+    border: 1px solid #ccc;
+    padding: 13px;
+    border-radius: 5px;
+}
+.SearchBlock input{
+    border: none;
+    outline: none;
+}
+
+.leftSearch{
+    flex-basis: 40%;
+    display: flex;
+    justify-content: flex-start;
+}
+.rightSearch{
+    flex-basis: 60%;
+    display: flex;
+    justify-content: flex-start;
+}
+.icon-left{
+    padding: 0px 10px;
+    position: relative;
+}
+.icon-right{
+    position: relative;
+    left: 15px;
+}
+.icon-left svg {
+    font-size: 18px;
+    position: absolute;
+    left: -6px;
+    font-weight: lighter;
+}
+::placeholder{
+    font-size: 13px;
+    text-transform: capitalize;
+    font-weight: lighter;
+}
+.navbar ul{
+    list-style: none;
+}
+.navbar ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 13px 30px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    display: inline-block;
+    color: rgba(15, 15,15, 1.00);
+    font-weight: 600;
+}
+.navbar ul li a:hover{
+    background-color: #f9f8f9;
+}
+/*----------------------------------------- service block css starts here------------------------------- */
+#serviceBlock{
+    height: 100%;
+    background-color: #fff;
+}
+#serviceBlock >article{
+    width: 80%;
+    background-color: #fff;
+    display: flex;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+#serviceBlock > article>aside{
+    flex: 1;
+}
+.top_Block{
+    border: 1px solid #ccc;
+    height: 300px;
+    width: 450px;
+    border-bottom: none;
+    border-radius: 5px;
+}
+.top_Block h3{
+    padding: 20px;
+    font-size: 15px;
+    font-weight:200;
+}
+.services_looking_for{
+    padding:  0 20px;
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto auto auto;
+    row-gap: 50px;
+}
+/* .services_looking_for div{
+    background-color: #f5f5f5;
+    height: 70px;
+    width: 120px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+.services_looking_for div img{
+    height: 45px;
+    width: 60px;
+}
+.block{
+    display: flex;
+    flex-direction: column;
+}

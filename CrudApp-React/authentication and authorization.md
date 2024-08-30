@@ -1,0 +1,2 @@
+--->  JWT  [JSON Web Token] 
+-- it is a token based authentication

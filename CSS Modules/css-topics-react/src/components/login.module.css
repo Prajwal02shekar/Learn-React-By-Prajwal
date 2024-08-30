@@ -1,0 +1,41 @@
+@value blue:#0c77f8;
+@value red:#ff0000;
+@value green:#aaf200;
+
+/* global css */
+
+/* :global .title{
+    font-size: 6em;
+} */
+
+:local .active{
+    background: red;
+}
+#auth{
+    background-color: #111;
+    color: #fff;
+}
+#auth form {
+    width: 500px;
+    height: 500px;
+    background: #fff;
+    padding: 20px;
+    margin: 10px;
+}
+#auth label{
+    background: transparent;
+    width: 100%;
+    font-weight:bold ;
+    text-transform: uppercase;
+    display: block;
+    color: #111;
+}
+#auth input{
+    background: transparent;
+    border: 1px solid #333;
+    width: 100%;
+    display: block;
+    margin: 10px 0;
+    color: #fff;
+    padding: 10px;
+}

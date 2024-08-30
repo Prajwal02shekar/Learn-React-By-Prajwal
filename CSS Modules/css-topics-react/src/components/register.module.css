@@ -1,0 +1,25 @@
+.auth {
+    background-color: #efefef;
+}
+.form {
+    width: 500px;
+    height: 500px;
+    background: #fff;
+    padding: 20px;
+}
+.label{
+    background: #eee;
+    width: 100%;
+    font-weight:bold ;
+    text-transform: uppercase;
+    display: block;
+}
+.input{
+    background: transparent;
+    border: 1px solid #ccc;
+    width: 100%;
+    display: block;
+    margin: 10px 0;
+    color: #111;
+    padding: 10px;
+}

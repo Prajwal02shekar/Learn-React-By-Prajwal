@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.flexContainer{
+    width: 90%;
+    margin:20px auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.container{
+    flex: 1;
+    background-color: #242422;
+    color: #fff;
+}

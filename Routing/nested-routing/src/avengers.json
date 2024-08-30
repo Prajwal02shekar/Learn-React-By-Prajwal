@@ -1,0 +1,606 @@
+[
+    {
+      "score": 0.85146374,
+      "show": {
+        "id": 10532,
+        "url": "https://www.tvmaze.com/shows/10532/avenger",
+        "name": "Avenger",
+        "type": "Animation",
+        "language": "Japanese",
+        "genres": [
+          "Action",
+          "Anime",
+          "Science-Fiction",
+          "Mystery"
+        ],
+        "status": "Ended",
+        "runtime": 25,
+        "averageRuntime": 25,
+        "premiered": "2003-10-02",
+        "ended": "2003-12-25",
+        "officialSite": null,
+        "schedule": {
+          "time": "00:30",
+          "days": [
+            "Thursday"
+          ]
+        },
+        "rating": {
+          "average": null
+        },
+        "weight": 32,
+        "network": {
+          "id": 76,
+          "name": "TV Tokyo",
+          "country": {
+            "name": "Japan",
+            "code": "JP",
+            "timezone": "Asia/Tokyo"
+          },
+          "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 80642,
+          "imdb": "tt0883021"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/35/89061.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/35/89061.jpg"
+        },
+        "summary": "\u003Cp\u003EMars has been colonized and is a world where children have been replaced by robot servents known as 'dolls'. Layla is a skilled fighter with a tragic past who travels about the world. Her companions are Nei, a strange and unique doll with some unknown ties to Layla, and Speedy, who is a doll breeder. The founders of Mars see the trio as a threat to their world, and each time they attack Layla and Nei a bit more of their mysterious past and future is revealed.\u003C/p\u003E",
+        "updated": 1704793354,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/10532"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/539989",
+            "name": "Outer"
+          }
+        }
+      }
+    },
+    {
+      "score": 0.7720493,
+      "show": {
+        "id": 54719,
+        "url": "https://www.tvmaze.com/shows/54719/avenger",
+        "name": "Avenger",
+        "type": "Scripted",
+        "language": "Armenian",
+        "genres": [],
+        "status": "Ended",
+        "runtime": 120,
+        "averageRuntime": null,
+        "premiered": null,
+        "ended": null,
+        "officialSite": null,
+        "schedule": {
+          "time": "",
+          "days": [
+            "Monday"
+          ]
+        },
+        "rating": {
+          "average": null
+        },
+        "weight": 8,
+        "network": {
+          "id": 1359,
+          "name": "Armenia TV",
+          "country": {
+            "name": "Armenia",
+            "code": "AM",
+            "timezone": "Asia/Yerevan"
+          },
+          "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": null,
+          "imdb": null
+        },
+        "image": null,
+        "summary": null,
+        "updated": 1618237703,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/54719"
+          }
+        }
+      }
+    },
+    {
+      "score": 0.5564904,
+      "show": {
+        "id": 70264,
+        "url": "https://www.tvmaze.com/shows/70264/avenger-penguins",
+        "name": "Avenger Penguins",
+        "type": "Animation",
+        "language": "English",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Family"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1993-09-22",
+        "ended": "1994-12-09",
+        "officialSite": null,
+        "schedule": {
+          "time": "",
+          "days": [
+            "Friday"
+          ]
+        },
+        "rating": {
+          "average": null
+        },
+        "weight": 7,
+        "network": {
+          "id": 35,
+          "name": "ITV1",
+          "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+          },
+          "officialSite": "https://www.itv.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 71662,
+          "imdb": "tt0481434"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/471/1177663.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/471/1177663.jpg"
+        },
+        "summary": "\u003Cp\u003EThree motorcycle riding penguins fight evil genius Caractacus P. Doom, a mad scientist intent on world domination.\u003C/p\u003E",
+        "updated": 1703963593,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/70264"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2609980",
+            "name": "Beautie and the Beast"
+          }
+        }
+      }
+    },
+    {
+      "score": 0.51363754,
+      "show": {
+        "id": 52570,
+        "url": "https://www.tvmaze.com/shows/52570/talio-avenger-buddies",
+        "name": "Talio: Avenger Buddies",
+        "type": "Scripted",
+        "language": "Japanese",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Crime"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2020-10-09",
+        "ended": "2020-11-20",
+        "officialSite": "https://www.nhk.jp/p/ts/78YR8PJXJ5/",
+        "schedule": {
+          "time": "22:00",
+          "days": [
+            "Friday"
+          ]
+        },
+        "rating": {
+          "average": null
+        },
+        "weight": 17,
+        "network": {
+          "id": 281,
+          "name": "NHK",
+          "country": {
+            "name": "Japan",
+            "code": "JP",
+            "timezone": "Asia/Tokyo"
+          },
+          "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 389834,
+          "imdb": null
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/290/725600.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/290/725600.jpg"
+        },
+        "summary": "\u003Cp\u003EMami Shirasawa became a lawyer at the young age of 20, as she chose to take the preliminary judicial examinations. Now with a large law firm, she has yet to be assigned a case, despite her competence. When a colleague drops a case, Mami is eager to take it on. Her first client is Yoriko Watanuki, a woman who was sexually assaulted by the son of the owner of a large construction company. Predictably, the accused has denied wrongdoing and had tried to cover his tracks by using his money and influence and by twisting the victim's words around to suit his purposes. \u003C/p\u003E",
+        "updated": 1608686100,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/52570"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/1989527",
+            "name": "Episode 7"
+          }
+        }
+      }
+    },
+    {
+      "score": 0.43367767,
+      "show": {
+        "id": 49431,
+        "url": "https://www.tvmaze.com/shows/49431/lagardere",
+        "name": "Lagardère",
+        "type": "Scripted",
+        "language": "French",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Romance"
+        ],
+        "status": "Ended",
+        "runtime": 100,
+        "averageRuntime": 100,
+        "premiered": "2005-04-11",
+        "ended": "2005-04-18",
+        "officialSite": null,
+        "schedule": {
+          "time": "",
+          "days": [
+            "Monday",
+            "Tuesday"
+          ]
+        },
+        "rating": {
+          "average": null
+        },
+        "weight": 12,
+        "network": {
+          "id": 106,
+          "name": "France 2",
+          "country": {
+            "name": "France",
+            "code": "FR",
+            "timezone": "Europe/Paris"
+          },
+          "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 361702,
+          "imdb": "tt0397508"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/267/667652.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/267/667652.jpg"
+        },
+        "summary": "\u003Cp\u003EIn France at the very beginning of the 18th century, Henri de Lagardère challenged Duke Philippe de Nevers to discover the secret of his famous boot, which makes him the finest blade of the kingdom of France. He loses, but Nevers, amused by this «gallant knight», cunning, funny and charming, takes him to his service. Since the Nevers and Caylus families were enemies, Duke Philippe de Nevers secretly married the beautiful Inès de Caylus, but the young woman's father later decided to marry his only daughter to Philippe de Gonzague, Nevers' own cousin, who then teaches Gonzague that the planned marriage is impossible, because Inès de Caylus is already married... to him, Nevers and he has a daughter. Gonzague then decides to get rid of his rival and Aurore de Nevers, the girl who has just been born from a secret wedding. Fearing Caylus's revenge if he were to discover the existence of his granddaughter, the Duke of Nevers decides to come and get Aurore at night to take her to his mansion. Jumping on the occasion, Gonzague and the mercenaries that Peyrolles, his damned soul, hired, attack Nevers in the ditches of Caylus Castle. Lagardère cannot prevent the murder of Nevers by his own cousin Philippe de Gonzague, but he manages to mark the hand of the masked assassin with his dagger, after which he swears to avenge the death of his friend and protect his friend's daughter, Aurore de Nevers. The young man raises Aurore in Spain with Cocardasse and Passepoil, his masters of arms, while hiding this dark story from the child. For seventeen years, Lagardère travelled throughout Europe, eliminating all mercenaries one by one. At the very end of his mission, he returns again to France and crosses the road to Gonzague, with whom he passes for a poor and old hunchback.\u003C/p\u003E",
+        "updated": 1698590788,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/49431"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2676332",
+            "name": "Part 01"
+          }
+        }
+      }
+    },
+    {
+      "score": 0.38836655,
+      "show": {
+        "id": 51816,
+        "url": "https://www.tvmaze.com/shows/51816/lego-marvel-avengers-climate-conundrum",
+        "name": "LEGO Marvel Avengers: Climate Conundrum",
+        "type": "Animation",
+        "language": "English",
+        "genres": [],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2020-11-01",
+        "ended": "2020-11-22",
+        "officialSite": null,
+        "schedule": {
+          "time": "12:00",
+          "days": [
+            "Sunday"
+          ]
+        },
+        "rating": {
+          "average": null
+        },
+        "weight": 75,
+        "network": {
+          "id": 78,
+          "name": "Disney Channel",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": "https://disneynow.com/all-shows/disney-channel"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 391302,
+          "imdb": null
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/282/705195.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/282/705195.jpg"
+        },
+        "summary": "\u003Cp\u003EThe Environmental Clean-up Conference is off to anything but a smooth start when Tony Stark realizes his fellow competitor is his rival Justin Hammer!\u003C/p\u003E",
+        "updated": 1683026102,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/51816"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/1966825",
+            "name": "Red Skull Rising"
+          }
+        }
+      }
+    },
+    {
+      "score": 0.376162,
+      "show": {
+        "id": 28914,
+        "url": "https://www.tvmaze.com/shows/28914/marvels-avengers-secret-wars-shorts",
+        "name": "Marvel's Avengers: Secret Wars Shorts",
+        "type": "Animation",
+        "language": "English",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science-Fiction"
+        ],
+        "status": "Ended",
+        "runtime": 4,
+        "averageRuntime": 4,
+        "premiered": "2017-06-02",
+        "ended": "2017-06-07",
+        "officialSite": null,
+        "schedule": {
+          "time": "",
+          "days": []
+        },
+        "rating": {
+          "average": 6.6
+        },
+        "weight": 59,
+        "network": {
+          "id": 25,
+          "name": "Disney XD",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 329385,
+          "imdb": null
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/115/288080.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/115/288080.jpg"
+        },
+        "summary": "\u003Cp\u003EDisney has released a set of six short films to help introduce the latest additions to the Avengers team ahead of the fourth season of \u003Cb\u003EMarvel's Avengers\u003C/b\u003E. The newcomers include Captain Marvel, Black Panther, Wasp, Ms. Marvel, Vision, and Ant-Man.\u003C/p\u003E",
+        "updated": 1592212801,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/28914"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/1202923",
+            "name": "Ms. Marvel"
+          }
+        }
+      }
+    },
+    {
+      "score": 0.37344423,
+      "show": {
+        "id": 671,
+        "url": "https://www.tvmaze.com/shows/671/the-avengers-earths-mightiest-heroes",
+        "name": "The Avengers: Earth's Mightiest Heroes!",
+        "type": "Animation",
+        "language": "English",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science-Fiction"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2010-09-22",
+        "ended": "2013-05-05",
+        "officialSite": null,
+        "schedule": {
+          "time": "23:35",
+          "days": [
+            "Sunday"
+          ]
+        },
+        "rating": {
+          "average": 7.9
+        },
+        "weight": 56,
+        "network": {
+          "id": 25,
+          "name": "Disney XD",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          },
+          "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": 23227,
+          "thetvdb": 192171,
+          "imdb": "tt1626038"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/399/998632.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/399/998632.jpg"
+        },
+        "summary": "\u003Cp\u003EWhen the planet is threatened by Super Villains, time-traveling conquerors, alien invaders, mythical monsters or mad robots bent on the total destruction of humanity; when the forces of evil are so overwhelming that no single hero has the power to save the world; when there is no hope left, the Avengers Assemble!\u003C/p\u003E",
+        "updated": 1704793353,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/671"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/59079",
+            "name": "Powerless"
+          }
+        }
+      }
+    },
+    {
+      "score": 0.36759442,
+      "show": {
+        "id": 1929,
+        "url": "https://www.tvmaze.com/shows/1929/the-avengers",
+        "name": "The Avengers",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Crime"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1961-01-07",
+        "ended": "1969-05-21",
+        "officialSite": null,
+        "schedule": {
+          "time": "",
+          "days": [
+            "Wednesday"
+          ]
+        },
+        "rating": {
+          "average": 8
+        },
+        "weight": 72,
+        "network": {
+          "id": 35,
+          "name": "ITV1",
+          "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+          },
+          "officialSite": "https://www.itv.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": 5591,
+          "thetvdb": 71020,
+          "imdb": "tt0054518"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/179/448748.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/179/448748.jpg"
+        },
+        "summary": "\u003Cp\u003EUrbane John Steed and a variety of partners work for an elite organization tasked with investigating criminal and espionage matters within the UK. Their opponents use everything from standard techniques to robots and other science fiction gadgetry.\u003C/p\u003E",
+        "updated": 1720309704,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/1929"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/159636",
+            "name": "Bizarre"
+          }
+        }
+      }
+    },
+    {
+      "score": 0.36220837,
+      "show": {
+        "id": 49336,
+        "url": "https://www.tvmaze.com/shows/49336/avengers-assemble",
+        "name": "Avengers Assemble!",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+          "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 5,
+        "averageRuntime": 5,
+        "premiered": "2010-09-02",
+        "ended": "2015-01-07",
+        "officialSite": null,
+        "schedule": {
+          "time": "",
+          "days": []
+        },
+        "rating": {
+          "average": null
+        },
+        "weight": 76,
+        "network": null,
+        "webChannel": {
+          "id": 21,
+          "name": "YouTube",
+          "country": null,
+          "officialSite": "https://www.youtube.com"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 274290,
+          "imdb": "tt1779952"
+        },
+        "image": null,
+        "summary": "\u003Cp\u003ESoon there will come a day when Earth's mightiest heroes are called together to face the forces of evil, some of them are true threats, while others are just plain tedious...Or common. On this day, the Avengers Assemble!  A series of comedy sketches in which the world's mightiest heroes discuss the same crap we're all talking about.\u003C/p\u003E",
+        "updated": 1595883511,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/49336"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/1907938",
+            "name": "Apuppetclypse Now"
+          }
+        }
+      }
+    }
+  ]

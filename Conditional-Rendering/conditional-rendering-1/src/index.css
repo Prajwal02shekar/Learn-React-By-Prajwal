@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbar{
+    background-color:black;
+    color: white;
+    height: 70px;
+    width: 100%;
+}
+#navbar .container,#productsBlock .container{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    height: inherit;
+    justify-content: space-between;
+}
+.container ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+.container ul li a{
+    color: yellow;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+button{
+    outline: none;
+    border: none;
+    border: 2px solid rgb(199, 199, 163);
+    border-radius: 10px;
+    height: 30px;
+    width: 60px;
+    padding: auto 20px;
+    background-color: rgb(24, 23, 23);
+    color: yellow;
+
+}

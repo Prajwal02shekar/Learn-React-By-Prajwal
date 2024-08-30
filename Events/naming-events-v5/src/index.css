@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #111;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff;
+}
+.section{
+  background: yellow;
+  height: 100px;
+  margin: 10px;
+  color: #111;
+  border: 1px solid #ccc;
+}
+.div{
+  background: rgb(0, 110, 255);
+  height: 100px;
+  margin: 10px;
+  color: #bcb1b1;
+  border: 1px solid #ccc;
+}
+.btn{
+  background: rgb(84, 96, 111);
+  height: 100px;
+  margin: 10px;
+  color: #111;
+  border: 1px solid #ccc;
+  display: block;
+  width: 50%;
+}

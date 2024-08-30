@@ -1,0 +1,134 @@
+[
+    {
+      "course_id": 1,
+      "course_name": "mernstack",
+      "duration": 4,
+      "trainer": [
+        "prajwal",
+        "darshan",
+        "anish",
+        "satyam",
+        "sravya"
+      ],
+      "price": 40000,
+      "branch": "BTM",
+      "course_details": {
+        "frontend": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React JS",
+          "Redux",
+          "Redux-toolkit",
+          "react-query"
+        ],
+        "backend": [
+          "Nodejs",
+          "Expressjs",
+          "mangoose",
+          "RestAPI",
+          "graphQl"
+        ],
+        "database": [
+          "MongoDB",
+          "SQL",
+          "PostgresSQL"
+        ],
+        "tools": [
+          "git",
+          "github",
+          "jenkins",
+          "linux",
+          "AWS"
+        ]
+      }
+    },
+    {
+      "course_id": 2,
+      "course_name": "javafullstack",
+      "duration": 5,
+      "trainer": [
+        "prajwal",
+        "darshan",
+        "anish",
+        "satyam",
+        "pranav"
+      ],
+      "price": 50000,
+      "branch": "BTR",
+      "course_details": {
+        "frontend": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React JS",
+          "Redux",
+          "Redux-toolkit",
+          "react-query"
+        ],
+        "backend": [
+          "java",
+          "spring",
+          "spring boot",
+          "graphQl"
+        ],
+        "database": [
+          "MongoDB",
+          "SQL",
+          "PostgresSQL"
+        ],
+        "tools": [
+          "git",
+          "github",
+          "jenkins",
+          "linux",
+          "AWS"
+        ]
+      }
+    },
+    {
+      "course_id": 3,
+      "course_name": "pythonfullstack",
+      "duration": 4,
+      "trainer": [
+        "shashi",
+        "prajwal",
+        "darshan",
+        "anish",
+        "satyam",
+        "arvind"
+      ],
+      "price": 38000,
+      "branch": "Rajajinagar",
+      "course_details": {
+        "frontend": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React JS",
+          "Redux",
+          "Redux-toolkit",
+          "react-query"
+        ],
+        "backend": [
+          "python",
+          "djongo",
+          "flask",
+          "RestAPI",
+          "graphQl"
+        ],
+        "database": [
+          "MongoDB",
+          "SQL",
+          "PostgresSQL"
+        ],
+        "tools": [
+          "git",
+          "github",
+          "jenkins",
+          "linux",
+          "AWS"
+        ]
+      }
+    }
+  ]
